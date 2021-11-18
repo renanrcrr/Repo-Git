@@ -1,7 +1,7 @@
 # Repo Git
 
-Author: Joao Pedro
+Author: Cristiano Rocha
 
-![./wars.png](New Star Wars)
+![Family](./wars.png)
 
 Este repositório serve apenas de exemplo para revisar alguns comandos.
